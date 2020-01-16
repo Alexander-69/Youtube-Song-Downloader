@@ -11,8 +11,10 @@ To run this you need to install with pip
 eg. >pip3 install lxml
 
 
+
 You will also need to install ffmpeg from here: 
 https://www.ffmpeg.org/download.html
+
 
 
 After you install those, (you might already have it installed) open cmd and run 
@@ -20,7 +22,9 @@ python3 youtube.py
 while in the direcory of the repository
 
 
+
 It will ask you the name of the song you want, and will download the audio from the youtube video, convert it to mp3, and save it in the folder where the python file is located.
+
 
 
 HERE IS WHAT IT WILL LOOK LIKE
