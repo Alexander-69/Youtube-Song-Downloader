@@ -23,7 +23,7 @@ while in the direcory of the repository
 
 
 
-It will ask you the name of the song you want, and will download the audio from the youtube video, convert it to mp3, and save it in the folder where the python file is located.
+It will ask you the name of the song you want, then display the first ten results, after you ender the number corosponding to your choice, it will download the audio from the youtube video, convert it to mp3, and save it in the folder where the python file is located.
 
 
 
